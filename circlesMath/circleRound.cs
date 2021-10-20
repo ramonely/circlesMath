@@ -79,7 +79,7 @@ namespace circlesMath
                 string fAre = CalculateFormattedArea(are);
                 string fCir = CalculateFormattedCircumference(cir);
                 newCircle(rad, fAre, fCir);
-                Console.WriteLine("\nDo you want to create another circke? (Enter: y/n)");
+                Console.WriteLine("\nDo you want to create another circle? (Enter: y/n)");
                 string checking = Console.ReadLine().ToLower();
 
                 bool tested = true;
