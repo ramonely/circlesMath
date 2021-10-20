@@ -1,0 +1,14 @@
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\bin\Debug\netcoreapp3.1\circlesMath.exe
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\bin\Debug\netcoreapp3.1\circlesMath.deps.json
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\bin\Debug\netcoreapp3.1\circlesMath.runtimeconfig.json
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\bin\Debug\netcoreapp3.1\circlesMath.runtimeconfig.dev.json
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\bin\Debug\netcoreapp3.1\circlesMath.dll
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\bin\Debug\netcoreapp3.1\circlesMath.pdb
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.csproj.AssemblyReference.cache
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.AssemblyInfoInputs.cache
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.AssemblyInfo.cs
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.csproj.CoreCompileInputs.cache
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.dll
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.pdb
+C:\Users\RLynch\source\repos\circlesMath\circlesMath\obj\Debug\netcoreapp3.1\circlesMath.genruntimeconfig.cache
